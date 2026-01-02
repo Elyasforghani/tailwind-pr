@@ -8,6 +8,6 @@
 <img width="1874" height="833" alt="Image" src="https://github.com/user-attachments/assets/235b8895-54d2-47f8-8bdd-1f59e389243c" />
 
 <img width="1861" height="861" alt="Image" src="https://github.com/user-attachments/assets/a674b449-c509-48e9-b395-f911a0f5f8bf" />
-# watch and try from here
+# watch from here
 
 <a href="https://elyasforghani.github.io/tailwind-pr "> live demo </a>
